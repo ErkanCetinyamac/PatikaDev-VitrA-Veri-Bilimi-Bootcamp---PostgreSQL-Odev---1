@@ -1,4 +1,4 @@
-# PatikaDev & VitrA Veri Bilimi Bootcamp | PostgreSQL Odev-1
+# PatikaDev & VitrA Veri Bilimi Bootcamp | PostgreSQL Odevleri
 
 
-110. VitrA Veri Bilimi Bootcamp - SQL Dersi - 1. Ödev
+110. VitrA Veri Bilimi Bootcamp - SQL Dersi Ödevleri
